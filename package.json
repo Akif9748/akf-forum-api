@@ -1,0 +1,26 @@
+{
+  "name": "akf-forum",
+  "version": "1.0.0",
+  "description": "The offical API wrapper for akf-forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akif9748/akf-forum-api.git"
+  },
+  "keywords": [
+    "api",
+    "forum"
+  ],
+  "author": "Akif9748",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akif9748/akf-forum-api/issues"
+  },
+  "homepage": "https://github.com/Akif9748/akf-forum-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
